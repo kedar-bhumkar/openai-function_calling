@@ -1,4 +1,4 @@
-OPENAI_KEY = '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'
+OPENAI_KEY = ''
 
 
 #ChatGPT parameter controls
